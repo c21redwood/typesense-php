@@ -1,14 +1,14 @@
 <?php
 
 
-namespace Devloops\Typesence\Exceptions;
+namespace Redwood\Typesence\Exceptions;
 
 /**
  * Class ObjectNotFound
  *
- * @package Devloops\Typesence\Exceptions
+ * @package Redwood\Typesence\Exceptions
  * @date    4/5/20
- * @author  Abdullah Al-Faqeir <abdullah@devloops.net>
+ * @author  Abdullah Al-Faqeir <abdullah@Redwood.net>
  */
 class ObjectNotFound extends TypesenseClientError
 {

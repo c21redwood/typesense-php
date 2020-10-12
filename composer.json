@@ -1,8 +1,8 @@
 {
-  "name": "devloopsnet/typesens-php",
+  "name": "c21redwood/typesense-php",
   "description": "PHP client for Typesense https://github.com/typesense/typesense",
   "type": "library",
-  "homepage": "https://www.devloops.net",
+  "homepage": "https://github.com/c21redwood/typesense-php",
   "license": "Apache-2.0",
   "authors": [
     {
@@ -10,16 +10,23 @@
       "email": "abdullah@devloops.net",
       "homepage": "https://www.devloops.net",
       "role": "Developer"
+    },
+    {
+      "name": "Aaron Collegeman",
+      "email": "aaron@c21redwood.com",
+      "homepage": "https://github.com/c21redwood",
+      "role": "Developer"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Devloops\\Typesence\\": "src/"
+      "Redwood\\Typesence\\": "src/"
     }
   },
   "require": {
-    "guzzlehttp/guzzle": "^7.0",
+    "php": "^7.2",
+    "guzzlehttp/guzzle": "^6.3",
     "ext-json": "*"
   }
 }

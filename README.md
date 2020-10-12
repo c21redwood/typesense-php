@@ -14,17 +14,18 @@ You can also add `devloopsnet/typesense-php` to your project's `composer.json`.
 
 ## Usage
 
-You can find some examples [here](https://github.com/devloopsnet/typesense-php/blob/master/examples/collection_operations.php).
+You can find some examples [here](https://github.com/c21redwood/typesense-php/blob/master/examples/collection_operations.php).
 
 See detailed [API documentation](https://typesense.org/api).
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [https://github.com/devloopsnet/typesense-php].
+Bug reports and pull requests are welcome on GitHub at [https://github.com/c21redwood/typesense-php].
 
 ## Author
 
 [Abdullah Al-Faqeir](https://github.org/abdullahfaqeir)
+[Aaron Collegeman](https://github.org/collegeman)
 
 ## License
 
